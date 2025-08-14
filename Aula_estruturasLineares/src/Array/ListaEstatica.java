@@ -1,3 +1,5 @@
+package Array;
+
 public class ListaEstatica {
     private int[] elementos;
     private int tamanho;
